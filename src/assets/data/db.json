@@ -1,0 +1,101 @@
+
+{
+    "posts": [
+      { 
+        "id": 1,
+        "productName": "casual shirt",
+        "categoryId": 2,
+        "discription":"man shirt man shirt mn shirt ",
+        "price":600,
+        "isavailable":true,
+        "productImage":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000010584430_437Wx649H_202204040226291.jpeg",
+        "rating":4.4,
+        "vendor_name":"kalyan",
+        "warrenty":2
+     },
+     { 
+        "id": 2,
+        "productName": "casual shirt",
+        "categoryId": 2,
+        "discription":"man shirt man shirt mn shirt ",
+        "price":600,
+        "isavailable":true,
+        "productImage":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000010584430_437Wx649H_202204040226291.jpeg",
+        "rating":4.4,
+        "vendor_name":"kalyan",
+        "warrenty":2
+     },
+     { 
+        "id": 3,
+        "productName": "casual shirt",
+        "categoryId": 2,
+        "discription":"man shirt man shirt mn shirt ",
+        "price":600,
+        "isavailable":true,
+        "productImage":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000010584430_437Wx649H_202204040226291.jpeg",
+        "rating":4.4,
+        "vendor_name":"kalyan",
+        "warrenty":2
+     },
+     { 
+        "id": 4,
+        "productName": "casual shirt",
+        "categoryId": 2,
+        "discription":"man shirt man shirt mn shirt ",
+        "price":600,
+        "isavailable":true,
+        "productImage":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000010584430_437Wx649H_202204040226291.jpeg",
+        "rating":4.4,
+        "vendor_name":"kalyan",
+        "warrenty":2
+     },
+     { 
+        "id": 5,
+        "productName": "casual shirt",
+        "categoryId": 2,
+        "discription":"man shirt man shirt mn shirt ",
+        "price":600,
+        "isavailable":true,
+        "productImage":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000010584430_437Wx649H_202204040226291.jpeg",
+        "rating":4.4,
+        "vendor_name":"kalyan",
+        "warrenty":2
+     },
+     { 
+        "id": 6,
+        "productName": "casual shirt",
+        "categoryId": 2,
+        "discription":"man shirt man shirt mn shirt ",
+        "price":600,
+        "isavailable":true,
+        "productImage":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000010584430_437Wx649H_202204040226291.jpeg",
+        "rating":4.4,
+        "vendor_name":"kalyan",
+        "warrenty":2
+     },
+     { 
+        "id": 7,
+        "productName": "casual shirt",
+        "categoryId": 2,
+        "discription":"man shirt man shirt mn shirt ",
+        "price":600,
+        "isavailable":true,
+        "productImage":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000010584430_437Wx649H_202204040226291.jpeg",
+        "rating":4.4,
+        "vendor_name":"kalyan",
+        "warrenty":2
+     },
+     { 
+        "id": 8,
+        "productName": "casual shirt",
+        "categoryId": 2,
+        "discription":"man shirt man shirt mn shirt ",
+        "price":600,
+        "isavailable":true,
+        "productImage":"https://img.tatacliq.com/images/i8/437Wx649H/MP000000010584430_437Wx649H_202204040226291.jpeg",
+        "rating":4.4,
+        "vendor_name":"kalyan",
+        "warrenty":2
+     }
+    ]
+  }
